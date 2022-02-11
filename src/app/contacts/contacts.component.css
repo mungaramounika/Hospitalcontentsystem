@@ -1,0 +1,38 @@
+/*contact*/
+.contact-box{
+    color: #000;
+    text-align: center;
+    box-shadow: rgba(red, green, blue, alpha);
+    padding: 20px 0 30px 0;
+    background:blueviolet;
+}
+.contact-box i{
+    font-size: 32px;
+    color: #fff;
+    border-radius: 50%;
+
+}
+.contact-box h3{
+    font-size: 20px;
+    color:#000;
+    font-weight: bold;
+    margin: 10px 0;
+}
+.contact-box p{
+    padding: 0;
+    line-height: 24px;
+    font-size: 14px;
+    margin-bottom: 0;
+}
+.contact-button{
+    background: #00eeff;
+    color: #fff;
+    border: none;
+    padding: 10px;
+}
+.contact-button:hover{
+    background: blueviolet;
+    color: blueviolet;
+
+}
+

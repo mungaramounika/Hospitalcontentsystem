@@ -1,0 +1,22 @@
+.card{
+    margin-top: 10px;
+    border: none;
+    width: 500px;
+    padding: 40px;
+    position: relative;
+    left: 100%;
+    transform: translate(-50%);
+    background: hsla(205,46%,30%,1);
+    background: linear-gradient(90deg,hsla(205,46%,30%,1)0%,hsla(260,29%,36%,1)100%);
+    padding: auto;
+    color:whitesmoke;
+    word-spacing: 5px;
+    font-size: 25px;
+    text-align: center;
+}
+.card label h1,h6{
+color: #fff;
+}
+label{
+    color: #fff;
+}

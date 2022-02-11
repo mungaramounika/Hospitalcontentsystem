@@ -1,0 +1,26 @@
+*{
+  padding: 0px;
+  margin: 0;
+
+}
+  h1
+{
+  color: white;
+  text-align: center;
+  background-color: blueviolet;
+}
+.k{
+  margin-left: 700px;
+}
+.nav-link{
+  color:white;
+  font-weight: bold;
+}
+.nav .nav-item a:hover
+{
+background-color: blue;
+color: white;
+}
+.n{
+  margin-left: 220px;
+}

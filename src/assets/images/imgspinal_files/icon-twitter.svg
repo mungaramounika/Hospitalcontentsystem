@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Canvas" transform="translate(-3954 46)">
+    <g id="Twitter_Bright-Blue">
+      <g id="Vector">
+        <use xlink:href="#path0_fill" transform="translate(3956 -44)" fill="#00B0FF"/>
+      </g>
+    </g>
+  </g>
+  <defs>
+    <path id="path0_fill" d="M 15.7 7.3C 15.6 11.9 12.7 15.1 8.3 15.3C 6.5 15.4 5.2 14.8 4 14.1C 5.3 14.3 7 13.8 7.9 13C 6.6 12.9 5.8 12.2 5.4 11.1C 5.8 11.2 6.2 11.1 6.5 11.1C 5.3 10.7 4.5 10 4.4 8.4C 4.7 8.6 5.1 8.7 5.5 8.7C 4.8 8.2 4.1 6.4 4.8 5.2C 6.1 6.6 7.7 7.8 10.3 8C 9.7 5.2 13.4 3.6 15 5.5C 15.7 5.4 16.2 5.1 16.7 4.9C 16.5 5.5 16.1 6 15.6 6.4C 16.1 6.3 16.6 6.2 17 6C 16.8 6.4 16.2 6.9 15.7 7.3ZM 18 0L 2 0C 0.9 0 0 0.9 0 2L 0 18C 0 19.1 0.9 20 2 20L 18 20C 19.1 20 20 19.1 20 18L 20 2C 20 0.9 19.1 0 18 0Z"/>
+  </defs>
+</svg>
