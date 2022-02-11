@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Canvas" transform="translate(-247 58)">
+    <g id="Menu_Medium-Blue">
+      <g id="Menu">
+        <g id="Vector">
+          <use xlink:href="#path0_fill" transform="translate(250 -52)" fill="#0288D1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <defs>
+    <path id="path0_fill" d="M 0 0L 18 0L 18 2L 0 2L 0 0ZM 0 5L 18 5L 18 7L 0 7L 0 5ZM 0 10L 18 10L 18 12L 0 12L 0 10Z"/>
+  </defs>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Canvas" transform="translate(-3890 46)">
+    <g id="Email_Bright-Blue">
+      <g id="Vector">
+        <use xlink:href="#path0_fill" transform="translate(3892 -41)" fill="#00B0FF"/>
+      </g>
+    </g>
+  </g>
+  <defs>
+    <path id="path0_fill" d="M 18 8.88178e-16L 2 8.88178e-16C 0.9 8.88178e-16 0 0.9 0 2L 0 11C 0 12.1 0.9 13 2 13L 18 13C 19.1 13 20 12.1 20 11L 20 2C 20 0.9 19.1 8.88178e-16 18 8.88178e-16ZM 16.1 2L 10 5.8L 3.9 2L 16.1 2ZM 2 11L 2 3.2L 9.5 7.9C 9.7 8 9.8 8.1 10 8.1C 10.2 8.1 10.4 8 10.5 7.9L 18 3.2L 18 11L 2 11Z"/>
+  </defs>
+</svg>
